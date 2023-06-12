@@ -9,3 +9,12 @@ Lanciotti, R.S., Roehrig, J.T., Deubel, V., Smith, J., Parker, M., Steele, K., C
 **2005 Davis** - NA/WNV2002
 
 Davis, C.T., Ebel, G.D., Lanciotti, R.S., Brault, A.C., Guzman, H., Siirin, M., Lambert, A., Parsons, R.E., Beasley, D.W., Novak, R.J. and Elizondo-Quiroga, D., 2005. [Phylogenetic analysis of North American West Nile virus isolates, 2001–2004: evidence for the emergence of a dominant genotype](https://doi.org/10.1016/j.virol.2005.07.022). Virology, 342(2), pp.252-265.
+
+**Reference Strains**
+
+| GenBank | Year | Reference |
+|:--|:--|:--|
+| AY033389 | 1998 | Old World, WNV, Israel-1998|
+| AF196835 | 1999 |WN-New York 1999 flamingo |
+| AY646354? | 2002 | WN02 |
+| DQ080053? | 2003 | SW03 |
