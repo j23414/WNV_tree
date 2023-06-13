@@ -14,6 +14,10 @@ Davis, C.T., Ebel, G.D., Lanciotti, R.S., Brault, A.C., Guzman, H., Siirin, M., 
 
 Hadfield, J., Brito, A.F., Swetnam, D.M., Vogels, C.B., Tokarz, R.E., Andersen, K.G., Smith, R.C., Bedford, T. and Grubaugh, N.D., 2019. [Twenty years of West Nile virus spread and evolution in the Americas visualized by Nextstrain](https://doi.org/10.1371/journal.ppat.1008042). PLoS pathogens, 15(10), p.e1008042.
 
+**2022 Bialosuknia** - NY10
+
+Bialosuknia, S.M., Dupuis II, A.P., Zink, S.D., Koetzner, C.A., Maffei, J.G., Owen, J.C., Landwerlen, H., Kramer, L.D. and Ciota, A.T., 2022. [Adaptive evolution of West Nile virus facilitated increased transmissibility and prevalence in New York State](https://doi.org/10.1080/22221751.2022.2056521). Emerging Microbes & Infections, 11(1), pp.988-999.
+
 **Reference Strains**
 
 | GenBank | Year | Reference |
@@ -22,3 +26,4 @@ Hadfield, J., Brito, A.F., Swetnam, D.M., Vogels, C.B., Tokarz, R.E., Andersen, 
 | AF196835 | 1999 |WN-New York 1999 flamingo |
 | AY646354? | 2002 | WN02 |
 | DQ080053? | 2003 | SW03 |
+| MT96788? | 2010 | NY10 |
